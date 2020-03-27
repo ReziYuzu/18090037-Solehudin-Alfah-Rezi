@@ -1,2 +1,2 @@
-# 18090037-Solehudin-Alfah-Rezi
+# Pratikum
 Pratikum Pemrograman Komputer
